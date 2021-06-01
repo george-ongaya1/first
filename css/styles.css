@@ -1,4 +1,16 @@
 /* css inout for my first webpage*/
 h1{
   color:blue;
+  text-align:center;
+}
+h2{
+  color:green;
+  font-style: italic;
+  text align: center;
+}
+p{
+  font-family:sans-serif;
+}
+ul{
+  line-height:40px;
 }
